@@ -1,7 +1,7 @@
 # AZ BOT MD
 <p align="center">
   <a href="https://youtube.com">
-    <img alt="Suhail docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://telegra.ph/file/9dcef2b49909742db8dbd.jpg">
+    <img alt="AZ docs" height="300" src="./lib/assets/pk.jpg"  old_src= "">
   </a>
 </p>
   
@@ -16,7 +16,7 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{suhail-whatsapp-bot}/count.svg" alt="SuhailTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{suhail-whatsapp-bot}/count.svg" alt="AZTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" /></p>
 
 
   <p align="center"> Meet AZ-BOT-MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. AZ-BOT-MD whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
